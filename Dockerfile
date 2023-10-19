@@ -1,4 +1,4 @@
-FROM ghcr.io/jason-clark-fg/docker-static-website:sha256-36260daebb7bbe91c41f0b64b9a4b4dbc91c55acbd17ea3c7877c0600d6027c7.sig
+FROM ghcr.io/jason-clark-fg/docker-static-website:master
 
 # Copy your static files
 COPY ./index.html .
