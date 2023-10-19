@@ -1,6 +1,6 @@
 # Docker Static Website - Wrapper
 
-This wraps the `docker-static-website` image from here: `ghcr.io/jason-clark-fg/docker-static-website:sha256-36260daebb7bbe91c41f0b64b9a4b4dbc91c55acbd17ea3c7877c0600d6027c7.sig`
+This wraps the `docker-static-website` image from here: `ghcr.io/jason-clark-fg/docker-static-website:master`
 
 This is an updated build based on the image of the same name from this repo: [https://github.com/lipanski/docker-static-website](https://github.com/lipanski/docker-static-website)
 
