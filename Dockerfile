@@ -1,4 +1,4 @@
-FROM ghcr.io/jason-clark-fg/docker-static-website:master
+FROM ghcr.io/jason-clark-fg/docker-static-website:main
 
 # Copy your static files
 COPY ./index.html .
